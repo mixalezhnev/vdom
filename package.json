@@ -1,0 +1,15 @@
+{
+  "name": "vdom",
+  "version": "1.0.0",
+  "description": "Try this by myself",
+  "main": "main.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0"
+  }
+}
